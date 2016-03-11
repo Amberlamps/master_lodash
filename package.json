@@ -1,0 +1,23 @@
+{
+  "name": "master-lodash",
+  "version": "0.0.0",
+  "description": "Playfully learn the magic and power of lodash.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Amberlamps/master_lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lodash",
+    "game",
+    "functions"
+  ],
+  "author": "Alexander Behrens <alexander.behrens.84@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0"
+  }
+}
